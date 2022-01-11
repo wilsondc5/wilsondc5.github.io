@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+I'm Derek Wilson, a CS major at Appalachian State University. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I plan to use this blog to write posts related to CS-4100 (Senior Seminar), but may write extra depending on how it goes.
