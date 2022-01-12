@@ -4,6 +4,8 @@ Hello everyone, and welcome to my blog! This is the first blog post for our assi
 
 This post is going to be talking about my best computing experiences so far in life.
 
+---
+
 ### In-Class
 
 Last semester (Fall 2021), I had the opportunity to take CS-5535 (Front-End Web Development). In this course, I was able to learn how to leverage Vue.js to create good-looking websites with relative ease. I personally really enjoyed this topic and have been able to use this knowledge for my senior thesis as well. The goal of my thesis is to create a lost & found application for the University that will assist students, faculty, and staff alike find their lost items around campus. Working on this application is what I would say is my best in-class experience so far.
