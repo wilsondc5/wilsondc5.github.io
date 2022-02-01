@@ -1,0 +1,7 @@
+## Ethics Discussion Reflection
+
+When we were doing our ethics presentations in class, I was very nervous about what I was going to need to talk about. Since it was the first oral presentation in the course, I was worried about how it was going to be graded, how everyone else was going to view me, and a whole list of other things. I decided not to be one of the first to go, since I wanted to gain some idea of what everyone else was talking about. I was pleasantly surprised when everyone that went before me talked about similar ethics to what I had, and made me feel like we were all in the same boat.
+
+When we later discussed what we thought about ethics, we all identified roughly the same things about what we said. A lot of us touched on how we were raised being what influenced our current ethics, but also how the internet had a role in shaping who we are now too. I do find it interesting how all of us from the same generation had this common thing influencing our growth, but I suppose that every generation has something like that, whether it be the internet or otherwise.
+
+Overall this discussion was easier to have than I thought it was going to be and made it a little bit easier for me to participate in discussions in the class. I feel like I can more confidently add what I'm thinking to the discussion now that I have a better grasp on who all is in the class and what everyone else is thinking.
