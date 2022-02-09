@@ -1,3 +1,5 @@
-## Hive Tracks & Bee Informed Partnership Ethics
+## Hive Tracks and Bee Informed Partnership Ethics
 
-fill in info here
+Going into the discussion about Hive Tracks and Bee Informed Partnership's ethics looking at the privacy side of things, I wasn't entirely sure what to expect. I had prior expectations and trust in Dr. Wilkes that the app wasn't collecting any unnecessary personal data from his userbase, so I was more curious about the strategies in place to keep users' data safe.
+
+As an app developer, I feel it is important to strive to protect the user in any way possible, and not to compromise their data in any way that they wouldn't want. This is why I've implemented an encryption mechanism in my application to keep the user's data safe, even from me. Hearing that Dr. Wilkes had considered this and always kept the same goal of "the users data belonging to them" throughout the implementation of his app was encouraging, and kind of just made me wish that more app developers had an ethical code about these things or that there was legislation in place to prevent companies from using user data maliciously.
