@@ -1,0 +1,5 @@
+# Privacy Policy Discussion
+
+I noticed that the privacy policies that we went over in class all said approximately the same thing: the company can collect any data it wants/needs, and if they use it there is very little as a customer you can do about it. Since we all technically agree to these policies when we use a company's product, they often have no legal reason to disclose what they are doing with our data.
+
+The even more interesting thing to me is that no one seemed very put-off by the privacy policy that they read. I believe all of us, myself included, said that we still had no problem using the products that we chose to read the privacy policy of. This doesn't necessarily surprise me though, since we live in a world where we are expected to be okay with giving our data to every company. And if we aren't okay with this, then we simply cannot function to our fullest extent. We wouldn't be able to use email, most chatting services, anything. So our only other alternative is to use these services and allow them to look into our lives however they see fit.
