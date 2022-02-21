@@ -1,0 +1,5 @@
+# CitizenFour and the Story of Edward Snowden
+
+Honestly, I had not done much research into Edward Snowden before watching this documentary, so going in I had no idea what "CitizenFour" was going to pertain to. Needless to say, I now am very interested in his story and what he did for the world. The little I did know about Edward Snowden was painted incorrectly in my mind. For some reason, in my mind, those events happened a long time ago, but in reality, it was less than a decade ago.
+
+It was honestly kind of depressing watching the events unfold in _CitizenFour_ knowing that not much has changed since then. Snowden risked his entire livelihood to get this information out to the public, and I feel like it was successfully suppressed as a whole by the government afterward. Privacy issues that we have already discussed in the course prove that companies and the government can still get whatever information they want on us that they want, regardless of if they are an American citizen or not. The government may not regularly tap into Verizon phone lines for calls anymore, but it still does not prevent them from keeping surveillance on civilians as a whole.
