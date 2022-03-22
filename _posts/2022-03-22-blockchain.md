@@ -1,0 +1,3 @@
+# Blockchain
+
+Before our discussions in class about blockchain technology, I had only associated it with cryptocurrencies. I now realize that the technology is more expansive than just using it for cryptocurrencies, although currently, that is the most prevalent use. One thing, in particular, I am excited to see more research put into is using the blockchain as a means of securing people's data. If we were all able to own our data and have complete control over who has access to it, it would change the entire "data selling" scene. Companies would have to give compensation for using the data that we own to show us targeted ads, so it would be a two-way street.
